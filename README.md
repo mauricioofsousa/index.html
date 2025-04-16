@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Descubra a Estratégia que Está Mudando o Jogo</title>
+  <style>
+    body {
+      font-family: 'Segoe UI', sans-serif;
+      background: #0f172a;
+      color: #f1f5f9;
+      margin: 0;
+      padding: 0;
+    }
+
+    header {
+      background: #1e293b;
+      text-align: center;
+      padding: 2rem;
+    }
+
+    header h1 {
+      font-size: 2.5rem;
+      color: #38bdf8;
+      margin-bottom: 0.5rem;
+    }
+
+    header p {
+      font-size: 1.2rem;
+      color: #94a3b8;
+    }
+
+    section {
+      padding: 2rem;
+      max-width: 800px;
+      margin: auto;
+    }
+
+    h2 {
+      color: #facc15;
+    }
+
+    .cta {
+      margin-top: 2rem;
+      text-align: center;
+    }
+
+    .cta a {
+      background: #38bdf8;
+      color: #0f172a;
+      padding: 1rem 2rem;
+      text-decoration: none;
+      font-size: 1.2rem;
+      border-radius: 8px;
+      transition: background 0.3s ease;
+    }
+
+    .cta a:hover {
+      background: #0ea5e9;
+    }
+
+    footer {
+      background: #1e293b;
+      padding: 1rem;
+      text-align: center;
+      font-size: 0.9rem;
+      color: #64748b;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Sistema Matriz Gráficos ON</h1>
+    <p>Descubra a metodologia com 95% de assertividade que está revolucionando o trading.</p>
+  </header>
+
+  <section>
+    <h2>Uma Nova Era na Análise de Mercado</h2>
+    <p>Baseado em blockchain, trigonometria e ondas periódicas, o Sistema Matriz Gráficos ON transforma o comportamento dos ativos em uma leitura limpa e precisa. É a união entre ciência, tecnologia e fé aplicada ao mercado financeiro.</p>
+
+    <h2>Comparativo de Performance</h2>
+    <p>Enquanto estratégias tradicionais alcançam de 65% a 80% de acerto, a M.G.O atingiu 95% em 140 operações nas últimas semanas, mesmo considerando até o martingale na fase 2.</p>
+
+    <h2>Idealizado por Maurício Sousa Maia</h2>
+    <p>Autor e pesquisador da obra "Sistema Matriz Gráficos ON – A blockchain do trading", Maurício propõe uma nova abordagem que une fé, física e liberdade financeira. Siga nas redes sociais:</p>
+    <ul>
+      <li><a href="https://www.tiktok.com/@mauricio_of_sousa" target="_blank">TikTok: @mauricio_of_sousa</a></li>
+      <li><a href="https://www.instagram.com/mauricio_of_sousa" target="_blank">Instagram: @mauricio_of_sousa</a></li>
+    </ul>
+
+    <div class="cta">
+      <a href="#">Baixar o Ebook Agora</a>
+    </div>
+  </section>
+
+  <footer>
+    <p>&copy; 2025 Maurício Sousa Maia. Todos os direitos reservados.</p>
+  </footer>
+</body>
+</html>
